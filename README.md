@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Toluwalashe, I'm a Software Engineer
 
-[![Lashe's github stats](https://github-readme-stats.vercel.app/api?username=lashe&show_icons=true&theme=cobalt$hide=stars&count_private=true)](https://github.com/lashe)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashe" alt="yczar" /></p>
+[![Lashe's github stats](https://github-readme-stats.vercel.app/api?username=lashe&show_icons=true&theme=gruvbox$hide=stars&count_private=true)](https://github.com/lashe)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashe" alt="yczar" /></p>
 
 - 🔭 I’m currently creating interactive experiences using modern web technology
 - 🌱 I’m currently learning awesome things and exploring the decentralized web
